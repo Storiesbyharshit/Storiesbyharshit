@@ -1,10 +1,3 @@
-### Hi there 👋 I am Harshit !
-I am a Final Year Computer Science Engineering student and Data Science & AI enthusiast.
->  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
- 
- 
- 
- 
 </p>
 <p align="center">
  <img alt="For-the-Badge-Python" src="https://media-exp1.licdn.com/dms/image/C5616AQHtc-94qSOnSw/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=x_nZhEojjnRGEVwJ0ECKTiqYB_d9ZXn-t31RTEnsKds">
@@ -12,6 +5,15 @@ I am a Final Year Computer Science Engineering student and Data Science & AI ent
   
  
 </p>
+
+### Hi there 👋 I am Harshit !
+I am a Final Year Computer Science Engineering student and Data Science & AI enthusiast.
+>  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
+ 
+ 
+ 
+ 
+
  I am also a Travel Photographer ✨
  
  >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
