@@ -13,7 +13,7 @@ I am a Final Year Computer Science Engineering student and Data Science & AI ent
  
 </p>
  I am also a Travel Photographer ✨
-  >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
+ >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
  
 
 <!--
