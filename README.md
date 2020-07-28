@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Harshit !
 I am a Final Year Computer Science Engineering student and Data Science & AI enthusiast.
- >  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
+>  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
  
  
  
