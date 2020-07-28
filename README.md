@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Harshit !
+I am a Final Year Computer Science Engineering student and Data Science & AI enthusiast.
  >  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
+ 
  
  
  
@@ -10,7 +12,7 @@
   
  
 </p>
-
+ I am also a travel photgrapher check out my [ **Instagram**](https://www.instagram.com/storiesbyharshit/)
 
 <!--
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
