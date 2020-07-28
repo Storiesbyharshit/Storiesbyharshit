@@ -12,7 +12,9 @@ I am a Final Year Computer Science Engineering student and Data Science & AI ent
   
  
 </p>
- I am also a travel photgrapher check out my [**Instagram**](https://www.instagram.com/storiesbyharshit/)
+ I am also a Travel Photographer ✨
+  >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
+ 
 
 <!--
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
