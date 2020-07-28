@@ -25,7 +25,7 @@ I am a Final Year Computer Science Engineering student and Data Science & AI ent
  
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
-- 📫 How to reach me: storiesbyharshit@gmail.com
+- 📫 E-Mail: storiesbyharshit@gmail.com
 
 <!--
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
