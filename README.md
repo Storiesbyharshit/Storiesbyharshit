@@ -7,7 +7,8 @@
  
 </p>
 
-I am a Final Year Computer Science Engineering student and Data Science & AI enthusiast.
+
+👨‍🎓 Currently, I am pursuing my undergrad from SRM Institute of Science and Technology from Computer Science and Engineering. Hopefully, I'll get my degree by 2021. 😄
 
 > [ **My Data Science Portfolio**](https://github.com/Storiesbyharshit/Data-Science-Portfolio)
 
