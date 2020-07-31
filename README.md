@@ -27,12 +27,7 @@
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
 - 📫 E-Mail: storiesbyharshit@gmail.com
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 ### Languages and Tools:
 
 
@@ -47,8 +42,7 @@
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=true" />
-[instagram]: https://www.instagram.com/storiesbyharshit/
-[linkedin]: https://www.linkedin.com/in/storiesbyharshit/
+
 
 <!--t
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
