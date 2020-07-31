@@ -27,8 +27,9 @@
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
 - 📫 E-Mail: storiesbyharshit@gmail.com
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=true" />
 
-<!--
+<!--t
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
