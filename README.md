@@ -19,7 +19,7 @@
  
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
-- 📫 E-Mail: storiesbyharshit@gmail.com
+
 ### 📫 Connect with me:
 
 [<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:storiesbyharshit@gmail.com)
@@ -53,15 +53,6 @@
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
-
->  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
- 
- 
- 
- 
- 
- >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
-
 
 
 
