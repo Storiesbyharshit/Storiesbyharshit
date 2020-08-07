@@ -15,16 +15,7 @@
 > [ **My Portfolio Website**](https://storiesbyharshit.github.io/)
 
 
->  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
- 
- 
- 
- 
 
- I am also a Travel Photographer ✨
- 
- >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
- 
  
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
@@ -52,7 +43,16 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
 
+>  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
+ 
+ 
+ 
+ 
 
+ I am also a Travel Photographer ✨
+ 
+ >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
+ 
 
 
 
