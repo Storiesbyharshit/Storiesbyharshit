@@ -38,12 +38,6 @@
 
 
 <br />
-
-<br />
-<br />
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
-
 ### 📫 Connect with me:
 
 [<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:storiesbyharshit@gmail.com)
@@ -51,6 +45,14 @@
 
 [<img align="left" alt="sh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshit-singh-2608531a6/)
 [<img align="left" alt="techmirtz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/storiesbyharshit)
+
+<br>
+
+<br />
+<br />
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
+
 
 <br>
 
