@@ -12,7 +12,7 @@
 
 
 
-> [ **My Portfolio Website **](https://storiesbyharshit.github.io/)
+> [ **My Portfolio Website**](https://storiesbyharshit.github.io/)
 
 
 >  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
