@@ -48,8 +48,6 @@
  
  
  
-
- I am also a Travel Photographer ✨
  
  >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
  
