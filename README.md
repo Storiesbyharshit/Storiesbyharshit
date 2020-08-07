@@ -61,7 +61,7 @@
 
 <p align="left">
  <br/>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiesbyharshit&layout=compact" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiesbyharshit" />
 </p>
 
 
