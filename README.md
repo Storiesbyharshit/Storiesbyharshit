@@ -10,7 +10,9 @@
 
 👨‍🎓 Currently, I am pursuing my undergrad from SRM Institute of Science and Technology in Computer Science and Engineering. Hopefully, I'll get my degree by 2021. 😄
 
-> [ **My Data Science Portfolio**](https://github.com/Storiesbyharshit/Data-Science-Portfolio)
+
+
+> [ **My Portfolio Website **](https://storiesbyharshit.github.io/)
 
 
 >  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
