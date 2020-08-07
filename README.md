@@ -20,6 +20,17 @@
  
 - 🔭 I’m currently working on Data Science , Machine Learning , Deep Learning & AI.
 - 📫 E-Mail: storiesbyharshit@gmail.com
+### 📫 Connect with me:
+
+[<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:storiesbyharshit@gmail.com)
+[<img align="left" alt="myport" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://storiesbyharshit.github.io/)
+
+[<img align="left" alt="sh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshit-singh-2608531a6/)
+[<img align="left" alt="techmirtz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/storiesbyharshit)
+
+<br>
+
+---
 
 ### Languages and Tools:
 
@@ -50,7 +61,7 @@
  
  
  >  [ **Connect with me on Instagram**](https://www.instagram.com/storiesbyharshit/)
- 
+
 
 
 
