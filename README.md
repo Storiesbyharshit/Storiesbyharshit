@@ -54,6 +54,9 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=ayu-mirage&hide=contribs,issues,prs" />
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Storiesbyharshit&layout=compact)](https://github.com/Storiesbyharshit/github-readme-stats)
+
 <br>
 
 
