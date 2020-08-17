@@ -55,7 +55,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Storiesbyharshit&hide=Jupyternotebook&layout=compact)](https://github.com/Storiesbyharshit/github-readme-stats)
+
 
 <br>
 
