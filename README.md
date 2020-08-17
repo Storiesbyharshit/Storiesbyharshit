@@ -8,7 +8,7 @@
 </p>
 
 
-👨‍🎓 Currently, I am pursuing my undergrad from SRM Institute of Science and Technology in Computer Science and Engineering. Hopefully, I'll get my degree by 2021. 😄
+🎓 Currently, I am pursuing my undergrad from SRM Institute of Science and Technology in Computer Science and Engineering. Hopefully, I'll get my degree by 2021. 😄
 
 
 
