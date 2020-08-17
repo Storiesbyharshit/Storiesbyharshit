@@ -51,7 +51,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&hide=contribs,issues,prs" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Storiesbyharshit&show_icons=true&hide_border=false&theme=vue&hide=contribs,issues,prs" />
 
 
 <br>
