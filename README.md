@@ -50,9 +50,6 @@
 
 <br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Storiesbyharshit" alt="Storiesbyharshit" />
-</p>
 
 <br />
 
