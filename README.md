@@ -60,15 +60,7 @@
 <br>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Storiesbyharshit/count.svg" />
-</p>
 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 <!--t
 **Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
