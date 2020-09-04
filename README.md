@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Harshit !
-*IBM Certified AI Engineer | IBM Certified Data Scientist | DeepLearning.ai Certified Tensorflow Developer
+/*IBM Certified AI Engineer | IBM Certified Data Scientist | DeepLearning.ai Certified Tensorflow Developer*/
 
 
 </p>
